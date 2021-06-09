@@ -1,4 +1,4 @@
-# garfield-hub
+# About
 
 Garfield Hub is a hub developed for the Roblox platform. It's coded entirely in lua.
 
