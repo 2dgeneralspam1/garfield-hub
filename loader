@@ -1,0 +1,18 @@
+--[[
+  ▄████  ██░ ██  █    ██  ▄▄▄▄   
+ ██▒ ▀█▒▓██░ ██▒ ██  ▓██▒▓█████▄ 
+▒██░▄▄▄░▒██▀▀██░▓██  ▒██░▒██▒ ▄██
+░▓█  ██▓░▓█ ░██ ▓▓█  ░██░▒██░█▀  
+░▒▓███▀▒░▓█▒░██▓▒▒█████▓ ░▓█  ▀█▓
+ ░▒   ▒  ▒ ░░▒░▒░▒▓▒ ▒ ▒ ░▒▓███▀▒
+  ░   ░  ▒ ░▒░ ░░░▒░ ░ ░ ▒░▒   ░ 
+░ ░   ░  ░  ░░ ░ ░░░ ░ ░  ░    ░ 
+      ░  ░  ░  ░   ░      ░      
+                               ░ 
+Garfield hub is developed by the developers of garfield hub.
+Discord: https://dsc.gg/garfieldproductions
+]]
+
+if game.gameId == 1247975681 then 
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/2dgeneralspam1/garfield-hub/main/games/big%20paintball'))()
+end 
