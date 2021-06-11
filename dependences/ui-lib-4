@@ -34,6 +34,7 @@ function library:CreateWindow(name,accentcolor,accentcolor2,textsize,sizeX,sizeY
     Main.Position = UDim2.new(0.0559123, -89, 0.01, 0)
     Main.Size = UDim2.new(0, 0, 0, 25)
     Main.ClipsDescendants=true
+    Main.Visible = false 
     local GetName = game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId)
     gamen=GetName.Name
     FPSLabel.Name = "FPSLabel"
