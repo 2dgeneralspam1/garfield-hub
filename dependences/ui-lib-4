@@ -69,6 +69,7 @@ function library:CreateWindow(name,accentcolor,accentcolor2,textsize,sizeX,sizeY
     game.TweenService:Create(TopBar, TweenInfo.new(0.7, Enum.EasingStyle.Linear, Enum.EasingDirection.In), {
         Size = UDim2.new(0, FPSLabel.TextBounds.X+6, 0, 2)
     }):Play()
+    TopBar.Visible = false
     
     wait(1)
     local FpsLabel = script.Parent
