@@ -48,6 +48,7 @@ function library:CreateWindow(name,accentcolor,accentcolor2,textsize,sizeX,sizeY
     FPSLabel.TextSize = 15.000
     FPSLabel.TextStrokeTransparency = 0.000
     FPSLabel.TextXAlignment = Enum.TextXAlignment.Left
+    FPSLabel.Visible = false 
     
     FPSLabel.Size = UDim2.new(0, FPSLabel.TextBounds.X+10, 0, 25)
     Main.Size = UDim2.new(0, FPSLabel.TextBounds.X+6, 0, 25)
