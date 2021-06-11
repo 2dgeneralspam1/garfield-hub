@@ -1,5 +1,7 @@
 --by spoopoo
 -- YOU NOT NOT ALLOWD TO USE THIS WITHOUT PERMISSION!!!!!!!!!!
+-- you MUST ask Spoorloos#7574 OR ILL SHIT ON YOU 
+
 local library = { }
 
 local player = game:GetService("Players").LocalPlayer
