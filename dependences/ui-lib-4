@@ -1,6 +1,4 @@
--- madeby sussy Spoorloos#7574
--- only use if you have perm from Spoorloos#7574 !!!!!!!!!! or ur a trollar
-
+-- you are a baka if you use without Spoorloos#7574 's permission!!!
 local library = { }
 
 local player = game:GetService("Players").LocalPlayer
@@ -23,8 +21,8 @@ library.theme = {
 	backgroundcolor = Color3.fromRGB(20, 20, 20),
 	tabstextcolor = Color3.fromRGB(230, 230, 230),
 	bordercolor = Color3.fromRGB(60, 60, 60),
-	accentcolor = Color3.fromRGB(28, 56, 139),
-	accentcolor2 = Color3.fromRGB(16, 31, 78),
+	accentcolor = Color3.fromRGB(232, 77, 0),
+	accentcolor2 = Color3.fromRGB(203, 67, 0),
 	outlinecolor = Color3.fromRGB(60, 60, 60),
 	outlinecolor2 = Color3.fromRGB(0, 0, 0),
 	sectorcolor = Color3.fromRGB(30, 30, 30),
@@ -35,6 +33,7 @@ library.theme = {
 	buttoncolor2 = Color3.fromRGB(39, 39, 39),
 	itemscolor = Color3.fromRGB(200, 200, 200)
 }
+
 
 function library:CreateWatermark(name)
 	local watermark = { }
