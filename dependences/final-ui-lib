@@ -1,6 +1,21 @@
+--[[
+
+  ▄████  ██░ ██  █    ██  ▄▄▄▄   
+ ██▒ ▀█▒▓██░ ██▒ ██  ▓██▒▓█████▄ 
+▒██░▄▄▄░▒██▀▀██░▓██  ▒██░▒██▒ ▄██
+░▓█  ██▓░▓█ ░██ ▓▓█  ░██░▒██░█▀  
+░▒▓███▀▒░▓█▒░██▓▒▒█████▓ ░▓█  ▀█▓
+ ░▒   ▒  ▒ ░░▒░▒░▒▓▒ ▒ ▒ ░▒▓███▀▒
+  ░   ░  ▒ ░▒░ ░░░▒░ ░ ░ ▒░▒   ░ 
+░ ░   ░  ░  ░░ ░ ░░░ ░ ░  ░    ░ 
+      ░  ░  ░  ░   ░      ░      
+                               ░
+--]]
+
 -- MADE BY Spoorloos#7871!!!
 -- YOU ARE NOT ALLOWED TO USE THIS UI LIB!!!
 -- YOU MUST ASK Spoorloos#7871 FOR PERMISSION!!! 
+-- PERMISSION WAS GRANTED BY SPOORLOOS FOR GHUB TO USE THIS UI LIB!
 
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/CatzCode/PikaHub/main/Libraries/UI/bruh.lua", true))()
 library.theme.fontsize = 15
