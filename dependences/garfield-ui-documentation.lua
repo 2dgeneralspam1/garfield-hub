@@ -52,7 +52,7 @@
      - AddKeybind( text(string), default(Enum.Keycode), newkeycallback(function(value)), callback(function(value)) ) -- create a keybind
       - Set ( value(Enum.KeyCode) ) -- set the current keybind
       - Get -- get the current keybind
-     - AddDropdown( text(string), items(table), default(string), callback(function(value)) ) -- create a dropdown
+     - AddDropdown( text(string), items(table), default(string), multichoice(boolean (true or false)) callback(function(value)) ) -- create a dropdown
       - Add ( value(string) ) -- add a value to the dropdown
       - Remove ( value(string) ) -- remove a value from the dropdown
       - Set ( value(string) ) -- set the selected value
