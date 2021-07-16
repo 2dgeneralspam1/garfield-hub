@@ -383,4 +383,3 @@ game:GetService("RunService").RenderStepped:Connect(function()
 end)
 
 return ESP
-{"mode":"full","isActive":false}
